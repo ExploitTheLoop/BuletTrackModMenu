@@ -1,0 +1,814 @@
+[
+  {
+    "itemCategory": "Rifle"
+  },
+  {
+    "itemId": 101001,
+    "itemClass": "BP_Rifle_AKM_Wrapper_C_1",
+    "itemName": "AKM",
+    "itemTextColor": "0xFFFCC89D",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 101002,
+    "itemClass": "BP_Rifle_M16A4_Wrapper_C_1",
+    "itemName": "M16A4",
+    "itemTextColor": "0xFFD1EEEE",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 101003,
+    "itemClass": "BP_Rifle_SCAR_Wrapper_C_1",
+    "itemName": "SCAR-L",
+    "itemTextColor": "0xFFD1EEEE",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 101004,
+    "itemClass": "BP_Rifle_M416_Wrapper_C_1",
+    "itemName": "M416",
+    "itemTextColor": "0xFFD1EEEE",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 101005,
+    "itemClass": "BP_Rifle_Groza_Wrapper_C_1",
+    "itemName": "Groza",
+    "itemTextColor": "0xFFFCC89D",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 101006,
+    "itemClass": "BP_Rifle_AUG_Wrapper_C_1",
+    "itemName": "AUG A3",
+    "itemTextColor": "0xFFD1EEEE",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 101007,
+    "itemClass": "BP_Rifle_QBZ_Wrapper_C_1",
+    "itemName": "QBZ",
+    "itemTextColor": "0xFFD1EEEE",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 101008,
+    "itemClass": "BP_Rifle_M762_Wrapper_C_1",
+    "itemName": "M762",
+    "itemTextColor": "0xFFFCC89D",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 101009,
+    "itemClass": "BP_Rifle_Mk47_Wrapper_C_1",
+    "itemName": "Mk47 Mutant",
+    "itemTextColor": "0xFFFCC89D",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 101010,
+    "itemClass": "BP_Rifle_G36_Wrapper_C_1",
+    "itemName": "G36C",
+    "itemTextColor": "0xFFD1EEEE",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 101100,
+    "itemClass": "BP_Rifle_FAMAS_Wrapper_C_1",
+    "itemName": "FAMAS",
+    "itemTextColor": "0xFFD1EEEE",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 105001,
+    "itemClass": "BP_Other_M249_Wrapper_C_1",
+    "itemName": "M249",
+    "itemTextColor": "0xFFD1EEEE",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 105002,
+    "itemClass": "BP_Other_DP28_Wrapper_C_1",
+    "itemName": "DP-28",
+    "itemTextColor": "0xFFFCC89D",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemCategory": "Sub-MachineGun"
+  },
+  {
+    "itemId": 102001,
+    "itemClass": "BP_MachineGun_Uzi_Wrapper_C_1",
+    "itemName": "UZI",
+    "itemTextColor": "0xFF919AFF",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 102002,
+    "itemClass": "BP_MachineGun_UMP9_Wrapper_C_1",
+    "itemName": "UMP45",
+    "itemTextColor": "0xFFF8FAB9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 102003,
+    "itemClass": "BP_MachineGun_Vector_Wrapper_C_1",
+    "itemName": "Vector",
+    "itemTextColor": "0xFF919AFF",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 102004,
+    "itemClass": "BP_MachineGun_TommyGun_Wrapper_C_1",
+    "itemName": "Tompson SMG",
+    "itemTextColor": "0xFFF8FAB9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 102005,
+    "itemClass": "BP_MachineGun_PP19_Wrapper_C_1",
+    "itemName": "PP-19 Bizon",
+    "itemTextColor": "0xFF919AFF",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 102007,
+    "itemClass": "BP_MachineGun_MP5K_Wrapper_C_1",
+    "itemName": "Skorpion",
+    "itemTextColor": "0xFF919AFF",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemCategory": "Sniper"
+  },
+  {
+    "itemId": 103001,
+    "itemClass": "BP_Sniper_Kar98k_Wrapper_C_1",
+    "itemName": "Kar98K",
+    "itemTextColor": "0xFFFCC89D",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 103002,
+    "itemClass": "BP_Sniper_M24_Wrapper_C_1",
+    "itemName": "M24",
+    "itemTextColor": "0xFFFCC89D",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 103003,
+    "itemClass": "BP_Sniper_AWM_Wrapper_C_1",
+    "itemName": "AWM",
+    "itemTextColor": "0xFFFF66C9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 103004,
+    "itemClass": "BP_Sniper_SKS_Wrapper_C_1",
+    "itemName": "SKS",
+    "itemTextColor": "0xFFFCC89D",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 103005,
+    "itemClass": "BP_Sniper_VSS_Wrapper_C_1",
+    "itemName": "VSS",
+    "itemTextColor": "0xFF919AFF",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 103006,
+    "itemClass": "BP_Sniper_Mini14_Wrapper_C_1",
+    "itemName": "Mini14",
+    "itemTextColor": "0xFFD1EEEE",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 103007,
+    "itemClass": "BP_WEP_Mk14_Pickup_C_1",
+    "itemName": "Mk14",
+    "itemTextColor": "0xFFFCC89D",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 103008,
+    "itemClass": "BP_Sniper_Win94_Wrapper_C_1",
+    "itemName": "Win94",
+    "itemTextColor": "0xFFF8FAB9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 103009,
+    "itemClass": "BP_Sniper_SLR_Wrapper_C_1",
+    "itemName": "SLR",
+    "itemTextColor": "0xFFFCC89D",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 103010,
+    "itemClass": "BP_Sniper_QBU_Wrapper_C_1",
+    "itemName": "QBU",
+    "itemTextColor": "0xFFD1EEEE",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 103011,
+    "itemClass": "BP_Sniper_Mosin_Wrapper_C_1",
+    "itemName": "Mosin Nagant Sniper Rifle",
+    "itemTextColor": "0xFFFCC89D",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 103100,
+    "itemClass": "BP_Sniper_MK12_Wrapper_C_1",
+    "itemName": "Mk12",
+    "itemTextColor": "0xFFFCC89D",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemCategory": "ShotGun"
+  },
+  {
+    "itemId": 104001,
+    "itemClass": "BP_ShotGun_S686_Wrapper_C_1",
+    "itemName": "S686",
+    "itemTextColor": "0xFFFF66C9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 104002,
+    "itemClass": "BP_ShotGun_S1897_Wrapper_C_1",
+    "itemName": "S1897",
+    "itemTextColor": "0xFFFF66C9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 104003,
+    "itemClass": "BP_ShotGun_S12K_Wrapper_C_1",
+    "itemName": "S12K",
+    "itemTextColor": "0xFFFF66C9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 104004,
+    "itemClass": "BP_ShotGun_DP12_Wrapper_C_1",
+    "itemName": "DP12",
+    "itemTextColor": "0xFFFF66C9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 104101,
+    "itemClass": "BP_ShotGun_M1014_Wrapper_C_1",
+    "itemName": "M1014 Shotgun",
+    "itemTextColor": "0xFFFF66C9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 106006,
+    "itemClass": "BP_ShotGun_SawedOff_Wrapper_C_1",
+    "itemName": "Sawed-off",
+    "itemTextColor": "0xFFFF66C9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemCategory": "Pistol"
+  },
+  {
+    "itemId": 106001,
+    "itemClass": "BP_Pistol_P92_Wrapper_C_1",
+    "itemName": "P92",
+    "itemTextColor": "0xFF919AFF",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 106002,
+    "itemClass": "BP_Pistol_P1911_Wrapper_C_1",
+    "itemName": "P1911",
+    "itemTextColor": "0xFFF8FAB9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 106003,
+    "itemClass": "BP_Pistol_R1895_Wrapper_C_1",
+    "itemName": "R1895",
+    "itemTextColor": "0xFFFCC89D",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 106004,
+    "itemClass": "BP_Pistol_P18C_Wrapper_C_1",
+    "itemName": "P18C",
+    "itemTextColor": "0xFFFCC89D",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 106005,
+    "itemClass": "BP_Pistol_R45_Wrapper_C_1",
+    "itemName": "R45",
+    "itemTextColor": "0xFFF8FAB9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 106008,
+    "itemClass": "BP_Pistol_Vz61_Wrapper_C_1",
+    "itemName": "Vz61",
+    "itemTextColor": "0xFFFCC89D",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 106010,
+    "itemClass": "BP_Pistol_DesertEagle_Wrapper_C_1",
+    "itemName": "Desert Eagle",
+    "itemTextColor": "0xFFF8FAB9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemCategory": "Other"
+  },
+  {
+    "itemId": 107001,
+    "itemClass": "BP_Other_CrossBow_Wrapper_C_1",
+    "itemName": "Crossbow",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemCategory": "Melee"
+  },
+  {
+    "itemId": 108001,
+    "itemClass": "BP_WEP_Machete_Pickup_C_1",
+    "itemName": "Machete",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 108002,
+    "itemClass": "BP_WEP_Cowbar_Pickup_C_1",
+    "itemName": "Crowbar",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 108003,
+    "itemClass": "BP_WEP_Sickle_Pickup_C_1",
+    "itemName": "Sickle",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 108004,
+    "itemClass": "BP_WEP_Pan_Pickup_C_1",
+    "itemName": "Pan",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemCategory": "Attachment"
+  },
+  {
+    "itemId": 201001,
+    "itemClass": "BP_QK_Choke_Pickup_C_1",
+    "itemName": "Choke",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 201002,
+    "itemClass": "BP_QK_Mid_Compensator_Pickup_C_1",
+    "itemName": "Compensator (SMG)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 201003,
+    "itemClass": "BP_QK_Sniper_Compensator_Pickup_C_1",
+    "itemName": "Compensator (Snipers)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 201004,
+    "itemClass": "BP_QK_Mid_FlashHider_Pickup_C_1",
+    "itemName": "Flash Hider (SMG)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 201005,
+    "itemClass": "BP_QK_Sniper_FlashHider_Pickup_C_1",
+    "itemName": "Flash Hider (Snipers)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 201006,
+    "itemClass": "BP_QK_Mid_Suppressor_Pickup_C_1",
+    "itemName": "Suppressor (SMG)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 201007,
+    "itemClass": "BP_QK_Sniper_Suppressor_Pickup_C_1",
+    "itemName": "Suppressor (Snipers)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 201009,
+    "itemClass": "BP_QK_Large_Compensator_Pickup_C_1",
+    "itemName": "Compensator (AR)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 201010,
+    "itemClass": "BP_QK_Large_FlashHider_Pickup_C_1",
+    "itemName": "Flash Hider (AR)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 201011,
+    "itemClass": "BP_QK_Large_Suppressor_Pickup_C_1",
+    "itemName": "Suppressor (AR)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 201012,
+    "itemClass": "BP_QK_DuckBill_Pickup_C_1",
+    "itemName": "Duckbill (Shotguns)",
+    "itemTextColor": "0xFFFF66C9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 202001,
+    "itemClass": "BP_WB_Angled_Pickup_C_1",
+    "itemName": "Angled Foregrip",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 202002,
+    "itemClass": "BP_WB_Vertical_Pickup_C_1",
+    "itemName": "Vertical Foregrip",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 202004,
+    "itemClass": "BP_WB_LightGrip_Pickup_C_1",
+    "itemName": "Light Grip",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 202005,
+    "itemClass": "BP_WB_HalfGrip_Pickup_C_1",
+    "itemName": "Half Grip",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 202006,
+    "itemClass": "BP_WB_ThumbGrip_Pickup_C_1",
+    "itemName": "Thumb Grip",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 202007,
+    "itemClass": "BP_WB_Lasersight_Pickup_C_1",
+    "itemName": "Laser Sight",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 203001,
+    "itemClass": "BP_MZJ_HD_Pickup_C_1",
+    "itemName": "Red Dot Sight",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 203002,
+    "itemClass": "BP_MZJ_QX_Pickup_C_1",
+    "itemName": "Holographic Sight",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 203003,
+    "itemClass": "BP_MZJ_2X_Pickup_C_1",
+    "itemName": "2x Scope",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 203004,
+    "itemClass": "BP_MZJ_4X_Pickup_C_1",
+    "itemName": "4x Scope",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 203005,
+    "itemClass": "BP_MZJ_8X_Pickup_C_1",
+    "itemName": "8x Scope",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 203014,
+    "itemClass": "BP_MZJ_3X_Pickup_C_1",
+    "itemName": "3x Scope",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 203015,
+    "itemClass": "BP_MZJ_6X_Pickup_C_1",
+    "itemName": "6x Scope",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 203018,
+    "itemClass": "BP_MZJ_SideRMR_Pickup_C_1",
+    "itemName": "Canted Sight",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 204014,
+    "itemClass": "BP_ZDD_Sniper_Pickup_C_1",
+    "itemName": "Bullet Loop (Shotguns, Sniper Rifles)",
+    "itemTextColor": "0xFFFF66C9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 205001,
+    "itemClass": "BP_QT_UZI_Pickup_C_1",
+    "itemName": "Stock (Micro UZI)",
+    "itemTextColor": "0xFF919AFF",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 205002,
+    "itemClass": "BP_QT_A_Pickup_C_1",
+    "itemName": "Tactical Stock (Rifles, SMG)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 205003,
+    "itemClass": "BP_QT_Sniper_Pickup_C_1",
+    "itemName": "Cheek Pad (Snipers)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 205004,
+    "itemClass": "BP_ZDD_Crossbow_Q_Pickup_C_1",
+    "itemName": "Quiver (Crossbow)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemCategory": "Mag"
+  },
+  {
+    "itemId": 204004,
+    "itemClass": "BP_DJ_Mid_E_Pickup_C_1",
+    "itemName": "Extended Mag (SMG, Pistols)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 204005,
+    "itemClass": "BP_DJ_Mid_Q_Pickup_C_1",
+    "itemName": "Quickdraw Mag (SMG, Pistols)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 204006,
+    "itemClass": "BP_DJ_Mid_EQ_Pickup_C_1",
+    "itemName": "Extended Quickdraw Mag (SMG, Pistols)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 204007,
+    "itemClass": "BP_DJ_Sniper_E_Pickup_C_1",
+    "itemName": "Extended Mag (Snipers)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 204008,
+    "itemClass": "BP_DJ_Sniper_Q_Pickup_C_1",
+    "itemName": "Quickdraw Mag (Snipers)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 204009,
+    "itemClass": "BP_DJ_Sniper_EQ_Pickup_C_1",
+    "itemName": "Extended Quickdraw Mag (Snipers)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 204011,
+    "itemClass": "BP_DJ_Large_E_Pickup_C_1",
+    "itemName": "Extended Quickdraw Mag (AR)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 204012,
+    "itemClass": "BP_DJ_Large_Q_Pickup_C_1",
+    "itemName": "Quickdraw Mag (AR)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 204013,
+    "itemClass": "BP_DJ_Large_EQ_Pickup_C_1",
+    "itemName": "Extended Quickdraw Mag (AR)",
+    "itemTextColor": "0xFF9FBD1C",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemCategory": "Ammo"
+  },
+  {
+    "itemId": 301001,
+    "itemClass": "BP_Ammo_9mm_Pickup_C_1",
+    "itemName": "9mm",
+    "itemTextColor": "0xFF919AFF",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 302001,
+    "itemClass": "BP_Ammo_762mm_Pickup_C_1",
+    "itemName": "7.62mm",
+    "itemTextColor": "0xFFFCC89D",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 303001,
+    "itemClass": "BP_Ammo_556mm_Pickup_C_1",
+    "itemName": "5.56mm",
+    "itemTextColor": "0xFFD1EEEE",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 304001,
+    "itemClass": "BP_Ammo_12Guage_Pickup_C_1",
+    "itemName": "12 Gauge",
+    "itemTextColor": "0xFFFF66C9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 305001,
+    "itemClass": "BP_Ammo_45ACP_Pickup_C_1",
+    "itemName": ".45 ACP",
+    "itemTextColor": "0xFFF8FAB9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 306001,
+    "itemClass": "BP_Ammo_300Magnum_Pickup_C_1",
+    "itemName": ".300 Magnum",
+    "itemTextColor": "0xFFFF66C9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 307001,
+    "itemClass": "BP_Ammo_Bolt_Pickup_C_1",
+    "itemName": "Bolt",
+    "itemTextColor": "0xFFFF66C9",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemCategory": "Bag"
+  },
+  {
+    "itemId": 501001,
+    "itemClass": "PickUp_BP_Bag_Lv1_C_1",
+    "itemName": "Backpack (Lv. 1)",
+    "itemTextColor": "0xFFFFF266",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 501002,
+    "itemClass": "PickUp_BP_Bag_Lv2_C_1",
+    "itemName": "Backpack (Lv. 2)",
+    "itemTextColor": "0xFFFFF266",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 501006,
+    "itemClass": "PickUp_BP_Bag_Lv3_B_C_1",
+    "itemName": "Backpack (Lv. 3)",
+    "itemTextColor": "0xFFFFF266",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemCategory": "Helmet"
+  },
+  {
+    "itemId": 502001,
+    "itemClass": "PickUp_BP_Helmet_Lv1_C_1",
+    "itemName": "Motorcycle Helmet (Lv. 1)",
+    "itemTextColor": "0xFFFFF266",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 502002,
+    "itemClass": "PickUp_BP_Helmet_Lv2_C_1",
+    "itemName": "Military Helmet (Lv. 2)",
+    "itemTextColor": "0xFFFFF266",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 502003,
+    "itemClass": "PickUp_BP_Helmet_Lv3_C_1",
+    "itemName": "Spetsnaz Helmet (Lv. 3)",
+    "itemTextColor": "0xFFFFF266",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemCategory": "Armor"
+  },
+  {
+    "itemId": 503001,
+    "itemClass": "PickUp_BP_Armor_Lv1_C_1",
+    "itemName": "Police Vest (Lv. 1)",
+    "itemTextColor": "0xFFFFF266",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 503002,
+    "itemClass": "PickUp_BP_Armor_Lv2_C_1",
+    "itemName": "Police Vest (Lv. 2)",
+    "itemTextColor": "0xFFFFF266",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 503003,
+    "itemClass": "PickUp_BP_Armor_Lv3_C_1",
+    "itemName": "Military Vest (Lv. 3)",
+    "itemTextColor": "0xFFFFF266",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemCategory": "Medic"
+  },
+  {
+    "itemId": 601001,
+    "itemClass": "Drink_Pickup_C_1",
+    "itemName": "Energy Drink",
+    "itemTextColor": "0xFF4DFF76",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 601002,
+    "itemClass": "Injection_Pickup_C_1",
+    "itemName": "Adrenaline Syringe",
+    "itemTextColor": "0xFF4DFF76",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 601003,
+    "itemClass": "Pills_Pickup_C_1",
+    "itemName": "Painkiller",
+    "itemTextColor": "0xFF4DFF76",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 601004,
+    "itemClass": "Bandage_Pickup_C_1",
+    "itemName": "Bandage",
+    "itemTextColor": "0xFF4DFF76",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 601005,
+    "itemClass": "Firstaid_Pickup_C_1",
+    "itemName": "First Aid Kit",
+    "itemTextColor": "0xFF4DFF76",
+    "itemOutlineColor": "0xFF000000"
+  },
+  {
+    "itemId": 601006,
+    "itemClass": "FirstAidbox_Pickup_C_1",
+    "itemName": "Med Kit",
+    "itemTextColor": "0xFF4DFF76",
+    "itemOutlineColor": "0xFF000000"
+  }
+]

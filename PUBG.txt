@@ -1,0 +1,32 @@
+PUBGM Tutorial:
+
+
+	GWorld:
+		- Ida Pro > Export > GWorld 
+		
+	GNames:
+		- Ida Pro > String > Hardcoded name '%s' at index %i was duplicated (or unexpected concurrency)
+			> Something like this:
+									v21 = dword_xxx;
+									if ( !dword_xxx )
+									{
+										v21 = operator new(0x208);
+										_aeabi_memclr(v21, 0x208);
+										dword_xxx = v21;
+									}
+									
+									dword_xxx = GNames
+
+
+	ViewWorld:
+		- Ida Pro > String > NewObject with empty name can't be used to create default subobjects
+			> Something like this:
+									23 = a1;
+									v1 = byte_61A8540;
+									__dmb(0xBu);
+									if ( !(v1 & 1) && j___cxa_guard_acquire_1(&byte_61A8540) )
+									{
+										dword_xxx = 0;
+										....
+
+										dword_xxx = ViewMatrix
